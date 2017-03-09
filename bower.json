@@ -1,0 +1,20 @@
+{
+  "name": "actioncable-dist",
+  "version": "0.0.0",
+  "authors": [
+    "Ilia Partuk <ilia@wearebond.com>"
+  ],
+  "description": "Compiled ActionCable javascript",
+  "main": "actioncable.js",
+  "keywords": [
+    "actioncable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
